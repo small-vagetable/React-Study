@@ -1,0 +1,15 @@
+.FA{
+    width: 500px;
+    background-color: aqua;
+    padding: 10px;
+}
+.ChildB{
+    width: 100%;
+    background-color: blanchedalmond;
+    padding: 10px;
+}
+.GChildC{
+    width: 100%;
+    background-color: red;
+    padding: 10px;
+}

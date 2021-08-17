@@ -1,0 +1,10 @@
+.a{
+    width: 300px;
+    border: 1px solid red;
+    padding: 20px;
+}
+.b{
+    width: 100%;
+    border: 1px solid rgb(0, 247, 255);
+    padding: 20px;
+}
