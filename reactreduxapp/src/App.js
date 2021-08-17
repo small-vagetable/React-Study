@@ -1,0 +1,15 @@
+import React, { Component } from 'react'
+import Count from './containers/Count'
+import People from './containers/People'
+export default class App extends Component {
+    render() {
+        return (
+            <div>
+                App...
+                <Count/>
+                <hr/>
+                <People/>
+            </div>
+        )
+    }
+}
